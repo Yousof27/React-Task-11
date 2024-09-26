@@ -5,7 +5,7 @@ export default function App() {
     return (
         <>
             <div className='container'>
-                <h2 className='title'>Fo<span>r</span>m</h2>
+                {/* <h2 className='title'>Fo<span>r</span>m</h2> */}
                 <Form />
             </div>
         </>
